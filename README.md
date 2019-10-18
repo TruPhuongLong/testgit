@@ -1,5 +1,1 @@
-new
-
-new branch test1
-
-aaaaa
+ok in newbranch
