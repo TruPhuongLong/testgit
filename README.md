@@ -11,3 +11,5 @@ more text
 aaaa
 
 bbb
+
+test git commit -a
