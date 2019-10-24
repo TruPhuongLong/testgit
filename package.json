@@ -1,0 +1,31 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "link-module-alias",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruPhuongLong/testgit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruPhuongLong/testgit/issues"
+  },
+  "homepage": "https://github.com/TruPhuongLong/testgit#readme",
+  "devDependencies": {
+    "link-module-alias": "^1.2.0"
+  },
+  "_moduleAliases": {
+    "@root": "src/root"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "node-report": "^2.2.8"
+  }
+}
