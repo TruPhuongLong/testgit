@@ -1,3 +1,1 @@
-// add text
-
-// more
+console.log(__filename)
