@@ -1,3 +1,1 @@
-new
-
-fix bug for branch fix
+b3 merge with branch1
